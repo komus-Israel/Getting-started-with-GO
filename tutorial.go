@@ -15,4 +15,6 @@ func main() {
 	age := 3.8
 
 	fmt.Println(name, age)
+
+	fmt.Printf("my name is %v and I wish to graduate with a cgpa of %v", name, age)
 }
